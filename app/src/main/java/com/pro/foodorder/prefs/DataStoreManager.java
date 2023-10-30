@@ -6,7 +6,7 @@ import androidx.annotation.Nullable;
 
 import com.google.gson.Gson;
 import com.pro.foodorder.model.User;
-import com.pro.foodorder.utils.StringUtil;
+import com.pro.foodorder.event.utils.StringUtil;
 
 public class DataStoreManager {
 

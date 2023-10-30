@@ -11,7 +11,7 @@ import com.pro.foodorder.R;
 import com.pro.foodorder.constant.Constant;
 import com.pro.foodorder.databinding.ItemOrderBinding;
 import com.pro.foodorder.model.Order;
-import com.pro.foodorder.utils.DateTimeUtils;
+import com.pro.foodorder.event.utils.DateTimeUtils;
 
 import java.util.List;
 

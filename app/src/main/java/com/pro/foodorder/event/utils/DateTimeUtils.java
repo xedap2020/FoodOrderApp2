@@ -1,4 +1,4 @@
-package com.pro.foodorder.utils;
+package com.pro.foodorder.event.utils;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

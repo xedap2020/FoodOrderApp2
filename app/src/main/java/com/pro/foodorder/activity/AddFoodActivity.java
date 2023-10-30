@@ -12,7 +12,7 @@ import com.pro.foodorder.databinding.ActivityAddFoodBinding;
 import com.pro.foodorder.model.Food;
 import com.pro.foodorder.model.FoodObject;
 import com.pro.foodorder.model.Image;
-import com.pro.foodorder.utils.StringUtil;
+import com.pro.foodorder.event.utils.StringUtil;
 
 import java.util.ArrayList;
 import java.util.HashMap;

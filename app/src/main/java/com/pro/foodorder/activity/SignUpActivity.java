@@ -11,7 +11,7 @@ import com.pro.foodorder.constant.GlobalFunction;
 import com.pro.foodorder.databinding.ActivitySignUpBinding;
 import com.pro.foodorder.model.User;
 import com.pro.foodorder.prefs.DataStoreManager;
-import com.pro.foodorder.utils.StringUtil;
+import com.pro.foodorder.event.utils.StringUtil;
 
 public class SignUpActivity extends BaseActivity {
 

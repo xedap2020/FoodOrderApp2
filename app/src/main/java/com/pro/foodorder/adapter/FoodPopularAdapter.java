@@ -10,7 +10,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.pro.foodorder.databinding.ItemFoodPopularBinding;
 import com.pro.foodorder.listener.IOnClickFoodItemListener;
 import com.pro.foodorder.model.Food;
-import com.pro.foodorder.utils.GlideUtils;
+import com.pro.foodorder.event.utils.GlideUtils;
 
 import java.util.List;
 

@@ -19,7 +19,7 @@ import com.pro.foodorder.activity.AdminMainActivity;
 import com.pro.foodorder.activity.MainActivity;
 import com.pro.foodorder.listener.IGetDateListener;
 import com.pro.foodorder.prefs.DataStoreManager;
-import com.pro.foodorder.utils.StringUtil;
+import com.pro.foodorder.event.utils.StringUtil;
 
 import java.text.Normalizer;
 import java.util.Calendar;

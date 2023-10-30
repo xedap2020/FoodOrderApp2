@@ -27,7 +27,7 @@ import com.pro.foodorder.event.ReloadListCartEvent;
 import com.pro.foodorder.model.Food;
 import com.pro.foodorder.model.Order;
 import com.pro.foodorder.prefs.DataStoreManager;
-import com.pro.foodorder.utils.StringUtil;
+import com.pro.foodorder.event.utils.StringUtil;
 
 import org.greenrobot.eventbus.EventBus;
 import org.greenrobot.eventbus.Subscribe;

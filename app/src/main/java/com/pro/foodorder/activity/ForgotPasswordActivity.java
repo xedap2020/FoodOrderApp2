@@ -6,7 +6,7 @@ import android.widget.Toast;
 import com.google.firebase.auth.FirebaseAuth;
 import com.pro.foodorder.R;
 import com.pro.foodorder.databinding.ActivityForgotPasswordBinding;
-import com.pro.foodorder.utils.StringUtil;
+import com.pro.foodorder.event.utils.StringUtil;
 
 public class ForgotPasswordActivity extends BaseActivity {
 

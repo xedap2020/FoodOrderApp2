@@ -29,7 +29,7 @@ import com.pro.foodorder.databinding.FragmentAdminHomeBinding;
 import com.pro.foodorder.fragment.BaseFragment;
 import com.pro.foodorder.listener.IOnManagerFoodListener;
 import com.pro.foodorder.model.Food;
-import com.pro.foodorder.utils.StringUtil;
+import com.pro.foodorder.event.utils.StringUtil;
 
 import java.util.ArrayList;
 import java.util.List;

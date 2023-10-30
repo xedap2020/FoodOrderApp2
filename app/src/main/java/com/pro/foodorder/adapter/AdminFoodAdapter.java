@@ -12,7 +12,7 @@ import com.pro.foodorder.constant.Constant;
 import com.pro.foodorder.databinding.ItemAdminFoodBinding;
 import com.pro.foodorder.listener.IOnManagerFoodListener;
 import com.pro.foodorder.model.Food;
-import com.pro.foodorder.utils.GlideUtils;
+import com.pro.foodorder.event.utils.GlideUtils;
 
 import java.util.List;
 

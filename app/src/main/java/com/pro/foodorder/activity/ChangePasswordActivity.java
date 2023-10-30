@@ -9,7 +9,7 @@ import com.pro.foodorder.R;
 import com.pro.foodorder.databinding.ActivityChangePasswordBinding;
 import com.pro.foodorder.model.User;
 import com.pro.foodorder.prefs.DataStoreManager;
-import com.pro.foodorder.utils.StringUtil;
+import com.pro.foodorder.event.utils.StringUtil;
 
 public class ChangePasswordActivity extends BaseActivity {
 

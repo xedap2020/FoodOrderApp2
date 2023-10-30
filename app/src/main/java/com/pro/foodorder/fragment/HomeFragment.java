@@ -27,7 +27,7 @@ import com.pro.foodorder.constant.Constant;
 import com.pro.foodorder.constant.GlobalFunction;
 import com.pro.foodorder.databinding.FragmentHomeBinding;
 import com.pro.foodorder.model.Food;
-import com.pro.foodorder.utils.StringUtil;
+import com.pro.foodorder.event.utils.StringUtil;
 
 import java.util.ArrayList;
 import java.util.List;

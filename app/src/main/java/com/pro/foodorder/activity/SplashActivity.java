@@ -8,7 +8,7 @@ import android.os.Looper;
 import com.pro.foodorder.R;
 import com.pro.foodorder.constant.GlobalFunction;
 import com.pro.foodorder.prefs.DataStoreManager;
-import com.pro.foodorder.utils.StringUtil;
+import com.pro.foodorder.event.utils.StringUtil;
 
 @SuppressLint("CustomSplashScreen")
 public class SplashActivity extends BaseActivity {

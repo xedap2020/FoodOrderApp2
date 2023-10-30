@@ -3,7 +3,6 @@ package com.pro.foodorder.adapter;
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
-import android.widget.CompoundButton;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
@@ -12,7 +11,7 @@ import com.pro.foodorder.R;
 import com.pro.foodorder.constant.Constant;
 import com.pro.foodorder.databinding.ItemAdminOrderBinding;
 import com.pro.foodorder.model.Order;
-import com.pro.foodorder.utils.DateTimeUtils;
+import com.pro.foodorder.event.utils.DateTimeUtils;
 
 import java.util.List;
 

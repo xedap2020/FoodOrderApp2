@@ -1,4 +1,4 @@
-package com.pro.foodorder.utils;
+package com.pro.foodorder.event.utils;
 
 public class StringUtil {
 
